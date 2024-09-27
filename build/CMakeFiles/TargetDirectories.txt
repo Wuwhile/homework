@@ -1,0 +1,3 @@
+D:/VSC/homework/build/CMakeFiles/main.dir
+D:/VSC/homework/build/CMakeFiles/edit_cache.dir
+D:/VSC/homework/build/CMakeFiles/rebuild_cache.dir
